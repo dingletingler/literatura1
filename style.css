@@ -3,10 +3,11 @@
 }
 
 a {
-    width: 200px;
-    height: 100px;
+    width: 500px;
+    height: 300px;
     background-color: aquamarine;
     color: white;
     font-style: italic;
+    font-size: 200px;
     margin: 50px;
 }
