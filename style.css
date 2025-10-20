@@ -2,7 +2,7 @@
     font-weight: bold;
 }
 
-a {
+#button {
     width: 200px;
     height: 100px;
     background-color: aquamarine;
@@ -15,6 +15,4 @@ a {
 img {
     height: 300px;
     width: 500px;
-
 }
-
