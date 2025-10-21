@@ -1,15 +1,18 @@
-﻿﻿h1 {
+﻿body {
+    background: linear-gradient(-45deg, #FFC107, #FF9800);
+}
+
+h1 {
     font-weight: bold;
 }
 
-#button {
+.button {
     width: 50px;
     height: 25px;
-    background-color: aquamarine;
     color: white;
     font-style: italic;
     font-size: 25px;
-    margin: 50px;
+    margin: 10px;
 }
 
 img {
@@ -17,6 +20,19 @@ img {
     width: 500px;
 }
 
-table, th, td {
-    border: 1px solid black;
+table {
+}
+
+th {
+    background-color: #fdb73e;
+    height: 75px;
+}
+
+td {
+    background-color: #f3c371;
+    height: 50px;
+}
+
+a {
+    color: white;
 }
