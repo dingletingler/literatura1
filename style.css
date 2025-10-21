@@ -26,11 +26,16 @@ table {
 th {
     background-color: #fdb73e;
     height: 75px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
 }
 
 td {
     background-color: #f3c371;
     height: 50px;
+    font-family: monospace;
+    font-size: 20px
 }
 
 a {
