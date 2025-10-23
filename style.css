@@ -1,5 +1,5 @@
-﻿body {
-    background: linear-gradient(-45deg, #FFC107, #FF9800);
+body {
+    background: linear-gradient(-45deg, #e6d4a1, #fbd69f);
 }
 
 h1 {
@@ -41,4 +41,14 @@ td {
 
 a {
     color: white;
+}
+
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li {
+    padding-block: 5px
 }
